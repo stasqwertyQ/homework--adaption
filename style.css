@@ -1,0 +1,259 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.mauinggg {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.sectiooons11 {
+position: absolute;
+    width: 450px;
+    height: 120px;
+    left: 15px;
+    top: 50px;
+
+    background: #F5F4FA;
+    border-radius: 4px;
+}
+
+.heding222 {
+        width: 270px;
+        height: 16px;
+        margin-left: 85px;
+        margin-top: 40px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 16px;
+        text-align: center;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+    
+        color: #212121;
+}
+
+
+.paragraf---heding33 {
+        width: 450px;
+        height: 50px;
+        margin-left: 15px;
+        margin-top: 16px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 24px;
+
+    
+        letter-spacing: 0.03em;
+    
+        color: #757575;
+}
+
+
+.img111 {
+    margin-left: 190px;
+    margin-top: 30px;
+}
+
+
+
+.sectionnn22 {
+    position: absolute;
+        width: 450px;
+        height: 120px;
+        left: 15px;
+        top: 336px;
+    
+        background: #F5F4FA;
+        border-radius: 4px;
+}
+
+
+.heding222-section222 {
+        width: 270px;
+        height: 16px;
+        margin-left: 90px;
+        margin-top: 40px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 16px;
+        text-align: center;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+    
+        color: #212121;
+}
+
+
+
+.hedding3--section22222 {
+    width: 450px;
+    height: 50px;
+    margin-left: 15px;
+    margin-top: 22px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+
+    letter-spacing: 0.03em;
+
+    color: #757575;
+}
+
+
+.imeggi22 {
+    margin-left: 190px;
+    margin-top:30px ;
+}
+
+
+.sectioon--333 {
+    position: absolute;
+        width: 450px;
+        height: 120px;
+        left: 15px;
+        top: 632px;
+    
+        background: #F5F4FA;
+        border-radius: 4px;
+}
+
+
+
+.heding2--plans {
+    position: absolute;
+        width: 270px;
+        height: 16px;
+        left: 105px;
+        top: 152px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 16px;
+        text-align: center;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+    
+        color: #212121;
+}
+
+
+.heedink33-diagram {
+    position: absolute;
+        width: 450px;
+        height: 50px;
+        left: 15px;
+        top: 190px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 24px;
+    
+        letter-spacing: 0.03em;
+    
+        color: #757575;
+} 
+
+
+.img--diagram {
+    margin-left: 190px;
+    margin-top: 30px;
+} 
+
+
+
+.section---modern {
+    position: absolute;
+        width: 450px;
+        height: 120px;
+        left: 15px;
+        top: 918px;
+    
+        background: #F5F4FA;
+        border-radius: 4px;
+}
+
+
+
+.heding--cosmoc {
+    width: 270px;
+    height: 16px;
+    margin-left: 105px;
+    margin-top: 48px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+
+    color: #212121;
+}
+
+
+
+
+.hedind--cosmoc333 {
+        width: 450px;
+        height: 50px;
+        margin-left: 15px;
+        margin-top: 24px;
+    
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 24px;
+    
+        letter-spacing: 0.03em;
+    
+        color: #757575;
+}
+
+
+
+.img--cosmos {
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+
+
+@media screen and (min-width: 768px) {
+    .sectionnn22 {
+        margin-top: -290px;
+        margin-left: 480px;
+    }
+
+    .sectioon--333 {
+        margin-top: -220px;
+    }
+
+    .section---modern {
+        margin-top: -505px;
+        margin-left: 487px;
+    }
+}
